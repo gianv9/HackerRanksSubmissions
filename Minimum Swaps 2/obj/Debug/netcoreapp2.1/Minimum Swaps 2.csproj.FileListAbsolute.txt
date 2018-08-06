@@ -1,0 +1,11 @@
+/home/gian/Documents/HackerRanksSubmissions/Minimum Swaps 2/bin/Debug/netcoreapp2.1/Minimum Swaps 2.deps.json
+/home/gian/Documents/HackerRanksSubmissions/Minimum Swaps 2/bin/Debug/netcoreapp2.1/Minimum Swaps 2.runtimeconfig.json
+/home/gian/Documents/HackerRanksSubmissions/Minimum Swaps 2/bin/Debug/netcoreapp2.1/Minimum Swaps 2.runtimeconfig.dev.json
+/home/gian/Documents/HackerRanksSubmissions/Minimum Swaps 2/bin/Debug/netcoreapp2.1/Minimum Swaps 2.dll
+/home/gian/Documents/HackerRanksSubmissions/Minimum Swaps 2/bin/Debug/netcoreapp2.1/Minimum Swaps 2.pdb
+/home/gian/Documents/HackerRanksSubmissions/Minimum Swaps 2/obj/Debug/netcoreapp2.1/Minimum Swaps 2.csprojAssemblyReference.cache
+/home/gian/Documents/HackerRanksSubmissions/Minimum Swaps 2/obj/Debug/netcoreapp2.1/Minimum Swaps 2.csproj.CoreCompileInputs.cache
+/home/gian/Documents/HackerRanksSubmissions/Minimum Swaps 2/obj/Debug/netcoreapp2.1/Minimum Swaps 2.AssemblyInfoInputs.cache
+/home/gian/Documents/HackerRanksSubmissions/Minimum Swaps 2/obj/Debug/netcoreapp2.1/Minimum Swaps 2.AssemblyInfo.cs
+/home/gian/Documents/HackerRanksSubmissions/Minimum Swaps 2/obj/Debug/netcoreapp2.1/Minimum Swaps 2.dll
+/home/gian/Documents/HackerRanksSubmissions/Minimum Swaps 2/obj/Debug/netcoreapp2.1/Minimum Swaps 2.pdb
