@@ -10,7 +10,7 @@ while number_lines > 0:
 # receiving the sub string we want to search
 search=int(input())
 while search > 0:
-    regex="\w(?P<sub_string>"+input()+")\w"
+    regex=r"\w(?P<sub_string>"+input()+r")\w"
     found = 0
     for line in lines:
         found+=len(re.findall(regex,line))
